@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 Chima Ugbo | Github: [cugbo](https://github.com/cugbo)
 
-Princewill Odom
+Princewill Odom | Github: [HighPrince1](https://github.com/HighPrince1) 
