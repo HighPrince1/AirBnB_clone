@@ -169,5 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Chima Ugbo
+Chima Ugbo | Github: [cugbo](https://github.com/cugbo)
+
 Princewill Odom
